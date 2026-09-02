@@ -1,0 +1,29 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model Topic {
+  id          Int       @id @default(autoincrement())
+  title       String
+  category    String    // "Anatomy" | "Physiology" | "Pathology" | "Pharmacology" | "Microbiology" | "Clinical Cases"
+  difficulty  String    // "easy" | "medium" | "hard"
+  description String?   // Short clinical prompt, hint, or guiding focus
+  createdAt   DateTime  @default(now())
+  attempts    Attempt[]
+}
+
+model Attempt {
+  id           Int      @id @default(autoincrement())
+  topicId      Int
+  topic        Topic    @relation(fields: [topicId], references: [id], onDelete: Cascade)
+  startedAt    DateTime @default(now())
+  researchSecs Int?     // duration spent researching (in seconds)
+  explainSecs  Int?     // duration spent explaining (in seconds)
+  notes        String?  // free-text study summary/notes
+  completed    Boolean  @default(true)
+}

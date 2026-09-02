@@ -1,0 +1,36 @@
+{
+  "name": "medrandom",
+  "version": "1.0.0",
+  "description": "Medical active-recall topic generator with dual research/explain timers and streak tracking",
+  "main": "server/index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "dev:server": "tsx watch server/index.ts",
+    "dev:client": "npm --prefix client run dev",
+    "build": "npm run build:client && prisma generate && prisma db push && tsx prisma/seed.ts",
+    "build:client": "npm --prefix client run build",
+    "start": "tsx server/index.ts",
+    "prisma:generate": "prisma generate",
+    "prisma:push": "prisma db push",
+    "prisma:seed": "tsx prisma/seed.ts",
+    "seed": "tsx prisma/seed.ts"
+  },
+  "prisma": {
+    "seed": "tsx prisma/seed.ts"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.4.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.13.4",
+    "concurrently": "^9.1.2",
+    "prisma": "^6.4.1",
+    "tsx": "^4.19.3",
+    "typescript": "^5.7.3"
+  }
+}
