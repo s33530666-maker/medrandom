@@ -1,0 +1,1475 @@
+[
+  {
+    "title": "Brachial Plexus Anatomy & Clinical Lesions",
+    "category": "Anatomy",
+    "difficulty": "hard",
+    "description": "Roots (C5-T1), trunks, divisions, cords, terminal branches. Compare Erb-Duchenne palsy (waiter's tip) vs Klumpke palsy (claw hand)."
+  },
+  {
+    "title": "Circle of Willis & Cerebral Vascular Territories",
+    "category": "Anatomy",
+    "difficulty": "medium",
+    "description": "Anterior/posterior circulation, ACA vs MCA vs PCA stroke syndromes, common berry aneurysm sites at junctions."
+  },
+  {
+    "title": "Inguinal Canal & Hernia Anatomy",
+    "category": "Anatomy",
+    "difficulty": "easy",
+    "description": "Walls, rings (deep/superficial), contents in males and females. Distinguish direct vs indirect inguinal hernia relative to inferior epigastric vessels."
+  },
+  {
+    "title": "Coronary Arteries & Cardiac Dominance",
+    "category": "Anatomy",
+    "difficulty": "medium",
+    "description": "LAD, LCx, RCA branching. Right vs left dominant circulation based on PDA origin; blood supply to SA/AV nodes."
+  },
+  {
+    "title": "Cranial Nerves: Functions, Exits, and Palsies",
+    "category": "Anatomy",
+    "difficulty": "medium",
+    "description": "All 12 CNs, skull base foramina, sensory/motor/parasympathetic modalities, Bell's palsy vs central facial droop."
+  },
+  {
+    "title": "Diaphragm Apertures & Congenital Hernias",
+    "category": "Anatomy",
+    "difficulty": "easy",
+    "description": "T8 (IVC), T10 (Esophagus/Vagus), T12 (Aorta/Thoracic duct/Azygos). Bochdalek vs Morgagni congenital diaphragmatic hernias."
+  },
+  {
+    "title": "Popliteal Fossa Anatomy & Neurovascular Relationships",
+    "category": "Anatomy",
+    "difficulty": "medium",
+    "description": "Boundaries (biceps femoris, semimembranosus, gastrocnemius), deep-to-superficial order: popliteal artery, vein, tibial nerve. Baker cyst."
+  },
+  {
+    "title": "Biliary Tree & Triangle of Calot",
+    "category": "Anatomy",
+    "difficulty": "medium",
+    "description": "Cystic duct, common hepatic duct, cystic artery (Calot's triangle boundaries). Cholecystectomy anatomical landmarks and bile duct injury risks."
+  },
+  {
+    "title": "Rotator Cuff Muscles and Shoulder Stability",
+    "category": "Anatomy",
+    "difficulty": "easy",
+    "description": "SITS muscles (Supraspinatus, Infraspinatus, Teres minor, Subscapularis), innervation, actions, and drop-arm test for supraspinatus tear."
+  },
+  {
+    "title": "Portosystemic Anastomoses & Portal Hypertension",
+    "category": "Anatomy",
+    "difficulty": "hard",
+    "description": "Esophageal varices, caput medusae, anorectal varices, retroperitoneal veins. Portal vein tributaties vs systemic drainage."
+  },
+  {
+    "title": "Femoral Triangle & Femoral Sheath",
+    "category": "Anatomy",
+    "difficulty": "easy",
+    "description": "Boundaries (inguinal ligament, sartorius, adductor longus), contents from lateral to medial: NAVEL. Femoral canal and femoral hernia risk."
+  },
+  {
+    "title": "Larynx Cartilages & Vocal Cord Innervation",
+    "category": "Anatomy",
+    "difficulty": "hard",
+    "description": "Thyroid, cricoid, arytenoid cartilages. Superior vs Recurrent laryngeal nerve functions, unilateral vs bilateral RLN injury consequences."
+  },
+  {
+    "title": "Cavernous Sinus Anatomy & Thrombosis",
+    "category": "Anatomy",
+    "difficulty": "hard",
+    "description": "Structures traversing the sinus (CN III, IV, V1, V2, VI, internal carotid artery). Clinical presentation of cavernous sinus thrombosis."
+  },
+  {
+    "title": "Mediastinal Compartments & Associated Masses",
+    "category": "Anatomy",
+    "difficulty": "medium",
+    "description": "Superior, anterior (4 Ts: Thymoma, Teratoma, Thyroid, Terrible lymphoma), middle (pericardial, bronchogenic), posterior (neurogenic)."
+  },
+  {
+    "title": "Renal Vasculature & The Nutcracker Phenomenon",
+    "category": "Anatomy",
+    "difficulty": "medium",
+    "description": "Left vs right renal vein anatomy, left gonadal vein insertion, SMA compression of left renal vein leading to hematuria and varicocele."
+  },
+  {
+    "title": "Anterior Abdominal Wall Layers & Surgical Incisions",
+    "category": "Anatomy",
+    "difficulty": "easy",
+    "description": "Skin to peritoneum: Camper/Scarpa fascias, rectus sheath transition above vs below arcuate line, linea alba, McBurney's and Pfannenstiel incisions."
+  },
+  {
+    "title": "Pelvic Floor Musculature & Perineal Body",
+    "category": "Anatomy",
+    "difficulty": "medium",
+    "description": "Levator ani (puborectalis, pubococcygeus, iliococcygeus), coccygeus, perineal membrane. Role in continence and pelvic organ prolapse."
+  },
+  {
+    "title": "Spinal Cord Cross-Sectional Tracts & Cord Syndromes",
+    "category": "Anatomy",
+    "difficulty": "hard",
+    "description": "Dorsal columns, spinothalamic tracts, corticospinal tracts. Brown-Séquard syndrome, anterior cord syndrome, central cord (syringomyelia)."
+  },
+  {
+    "title": "Thoracic Duct Anatomy & Chylothorax",
+    "category": "Anatomy",
+    "difficulty": "medium",
+    "description": "Origin at cisterna chyli, ascent through aortic hiatus (T12), drainage into left venous angle (subclavian-internal jugular junction)."
+  },
+  {
+    "title": "Lumbosacral Plexus & Sciatic Nerve Pathway",
+    "category": "Anatomy",
+    "difficulty": "easy",
+    "description": "L4-S3 roots, greater sciatic foramen, relationship with piriformis muscle, bifurcation into tibial and common fibular (peroneal) nerves."
+  },
+  {
+    "title": "Eye Anatomy & Aqueous Humor Dynamics",
+    "category": "Anatomy",
+    "difficulty": "easy",
+    "description": "Ciliary body production, flow through anterior chamber, drainage via trabecular meshwork and Schlemm's canal; open vs closed-angle glaucoma."
+  },
+  {
+    "title": "Ulnar Nerve Course, Entrapment & Deformities",
+    "category": "Anatomy",
+    "difficulty": "medium",
+    "description": "Medial epicondyle (cubital tunnel) vs Guyon canal. Guyon canal vs cubital tunnel palsy presentation; ulnar paradox."
+  },
+  {
+    "title": "Median Nerve Anatomy & Carpal Tunnel Syndrome",
+    "category": "Anatomy",
+    "difficulty": "easy",
+    "description": "Roots C5-T1, pronator teres, carpal tunnel contents (flexor tendons + median nerve), ape hand vs hand of benediction, Phalen/Tinel tests."
+  },
+  {
+    "title": "Peritoneal Ligaments & Lesser Sac Entry",
+    "category": "Anatomy",
+    "difficulty": "hard",
+    "description": "Hepatoduodenal ligament (Pringle maneuver: portal triad compression), gastrocolic, splenorenal ligaments. Foramen of Winslow."
+  },
+  {
+    "title": "Middle Meningeal Artery & Epidural Hematoma",
+    "category": "Anatomy",
+    "difficulty": "easy",
+    "description": "Branch of maxillary artery, enters skull via foramen spinosum, passes deep to pterion. Classic lucid interval and biconvex lens on CT."
+  },
+  {
+    "title": "Deep Peroneal vs Superficial Peroneal Nerve",
+    "category": "Anatomy",
+    "difficulty": "easy",
+    "description": "Anterior vs lateral compartment of leg. Foot drop, webspace sensory loss (deep) vs dorsal foot sensory loss (superficial)."
+  },
+  {
+    "title": "Internal Capsule Somatotopy & Lacunar Infarctions",
+    "category": "Anatomy",
+    "difficulty": "hard",
+    "description": "Anterior limb, genu, posterior limb. Pure motor stroke (posterior limb) vs pure sensory stroke (thalamus / posterior limb)."
+  },
+  {
+    "title": "Great Saphenous Vein Course & Harvest Landmarks",
+    "category": "Anatomy",
+    "difficulty": "easy",
+    "description": "Medial malleolus origin, medial knee, saphenofemoral junction; saphenous nerve companion and sensory deficit risks."
+  },
+  {
+    "title": "Thyroid Gland Vasculature & Surrounding Nerves",
+    "category": "Anatomy",
+    "difficulty": "medium",
+    "description": "Superior thyroid artery (ECA) / external branch of SLN, inferior thyroid artery (thyrocervical trunk) / recurrent laryngeal nerve."
+  },
+  {
+    "title": "Coronary Sinus Anatomy & Cardiac Veins",
+    "category": "Anatomy",
+    "difficulty": "hard",
+    "description": "Great, middle, and small cardiac veins drainage into coronary sinus, opening into right atrium via Thebesian valve."
+  },
+
+  {
+    "title": "Frank-Starling Law of the Heart & PV Loops",
+    "category": "Physiology",
+    "difficulty": "medium",
+    "description": "End-diastolic volume vs stroke volume relationship. Preload, afterload, inotropy shifts on left ventricular pressure-volume loops."
+  },
+  {
+    "title": "Renin-Angiotensin-Aldosterone System (RAAS)",
+    "category": "Physiology",
+    "difficulty": "easy",
+    "description": "Juxtaglomerular apparatus triggers, ACE function, Angiotensin II systemic actions, Aldosterone effect on principal cells, ADH release."
+  },
+  {
+    "title": "Cardiac Action Potentials: Pacemaker vs Ventricular",
+    "category": "Physiology",
+    "difficulty": "hard",
+    "description": "Phase 0-4 ion channels (If funny current, Ca2+ L-type, K+ rectifiers, fast Na+ channels). Autonomic modulation and refractory periods."
+  },
+  {
+    "title": "Oxygen-Hemoglobin Dissociation Curve Shifts",
+    "category": "Physiology",
+    "difficulty": "easy",
+    "description": "Right shift (CADET face right: CO2, Acidosis, 2,3-BPG, Exercise, Temp) vs Left shift (fetal Hb, methemoglobin, carbon monoxide, alkalosis)."
+  },
+  {
+    "title": "Nephron Solute Transport & Countercurrent Multiplier",
+    "category": "Physiology",
+    "difficulty": "hard",
+    "description": "PCT (NHE3, SGLT2), TAL (NKCC2, voltage gradient), DCT (NCCT, Ca2+ reabsorption), Collecting duct (ENaC, ROMK, Aquaporin-2)."
+  },
+  {
+    "title": "Pulmonary Ventilation-Perfusion (V/Q) Dynamics",
+    "category": "Physiology",
+    "difficulty": "medium",
+    "description": "Apex vs base regional differences (West zones). Hypoxic pulmonary vasoconstriction, shunt (V/Q=0) vs dead space (V/Q=infinity)."
+  },
+  {
+    "title": "Hypothalamic-Pituitary-Thyroid & Adrenal Axes",
+    "category": "Physiology",
+    "difficulty": "easy",
+    "description": "TRH-TSH-T3/T4 and CRH-ACTH-Cortisol negative feedback mechanisms, diurnal cortisol rhythm, primary vs secondary endocrine failure."
+  },
+  {
+    "title": "Acid-Base Regulation: Winter's Formula & Anion Gap",
+    "category": "Physiology",
+    "difficulty": "hard",
+    "description": "Metabolic acidosis compensation (Winter's formula), High vs Normal Anion Gap acidosis (MUDPILES / HARDUPS), delta-delta ratio."
+  },
+  {
+    "title": "Neuromuscular Junction Transmission & Excitation-Contraction",
+    "category": "Physiology",
+    "difficulty": "easy",
+    "description": "Presynaptic Ca2+ entry, ACh release, nicotinic receptor activation, T-tubule DHP-RyR coupling, SR Ca2+ release, cross-bridge cycle."
+  },
+  {
+    "title": "Glomerular Filtration Rate & Autoregulation",
+    "category": "Physiology",
+    "difficulty": "medium",
+    "description": "Starling forces across glomerular capillaries, myogenic mechanism, tubuloglomerular feedback (macula densa adenosine/NO), afferent vs efferent tone."
+  },
+  {
+    "title": "Hemostasis: Primary vs Secondary Coagulation Cascade",
+    "category": "Physiology",
+    "difficulty": "medium",
+    "description": "Platelet adhesion (vWF/GPIb), activation (TXA2/ADP), aggregation (GPIIb/IIIa). Extrinsic (TF/VIIa), intrinsic (XII, XI, IX, VIII), common pathway (X, V, II, I)."
+  },
+  {
+    "title": "Gastrointestinal Hormones: Gastrin, CCK, Secretin, GIP",
+    "category": "Physiology",
+    "difficulty": "easy",
+    "description": "Cell origins (G, I, S, K cells), stimulatory triggers, downstream target organ effects on gastric acid, bile release, and bicarbonate secretion."
+  },
+  {
+    "title": "Baroreceptor Reflex & Orthostatic Blood Pressure Control",
+    "category": "Physiology",
+    "difficulty": "easy",
+    "description": "Carotid sinus (CN IX) vs Aortic arch (CN X) baroreceptors. Nucleus tractus solitarius processing, sympathetic vs vagal efferents in postural change."
+  },
+  {
+    "title": "Cerebrospinal Fluid Dynamics & Blood-Brain Barrier",
+    "category": "Physiology",
+    "difficulty": "medium",
+    "description": "Choroid plexus production, ventricular circulation (Monro, Sylvius, Luschka/Magendie), arachnoid villi reabsorption. Endothelial tight junctions & astrocytes."
+  },
+  {
+    "title": "Control of Breathing: Central vs Peripheral Chemoreceptors",
+    "category": "Physiology",
+    "difficulty": "medium",
+    "description": "Medullary central chemoreceptors (CSF pH / PaCO2) vs Carotid/aortic bodies (PaO2 < 60 mmHg, pH, PaCO2). Hering-Breuer reflex."
+  },
+  {
+    "title": "Basal Ganglia Direct & Indirect Pathways",
+    "category": "Physiology",
+    "difficulty": "hard",
+    "description": "Striatum D1 (direct/pro-kinetic) vs D2 (indirect/anti-kinetic) pathways, substantia nigra compacta dopamine tuning, STN and GPi output to thalamus."
+  },
+  {
+    "title": "Pancreatic Islet Hormones: Insulin & Glucagon Signaling",
+    "category": "Physiology",
+    "difficulty": "easy",
+    "description": "Beta cell GLUT2 and ATP-sensitive K+ channels triggering insulin exocytosis. Tyrosine kinase receptor vs GPCR/cAMP glucagon pathway."
+  },
+  {
+    "title": "Calcium Homeostasis: PTH, Calcitriol, and Calcitonin",
+    "category": "Physiology",
+    "difficulty": "medium",
+    "description": "Chief cell calcium-sensing receptor (CaSR), PTH actions on bone resorption (RANKL), renal distal Ca2+ reabsorption, and 1-alpha-hydroxylase activation."
+  },
+  {
+    "title": "Cardiac Cycle: Wiggers Diagram & Heart Sounds",
+    "category": "Physiology",
+    "difficulty": "hard",
+    "description": "Isovolumetric contraction/relaxation, rapid ejection/filling. Physiological basis of S1, S2, physiological splitting, S3 (volume overload), S4 (stiff LV)."
+  },
+  {
+    "title": "Gastric Acid Secretion & Parietal Cell Mechanism",
+    "category": "Physiology",
+    "difficulty": "medium",
+    "description": "H+/K+ ATPase pump, histamine (H2/Gs), ACh (M3/Gq), gastrin (CCKB/Gq), and somatostatin/prostaglandin (Gi) regulation."
+  },
+  {
+    "title": "Capillary Fluid Exchange: Starling Forces & Edema",
+    "category": "Physiology",
+    "difficulty": "easy",
+    "description": "Hydrostatic pressure vs Oncotic pressure gradients, reflection coefficient, mechanisms of edema in heart failure, cirrhosis, nephrotic syndrome, and inflammation."
+  },
+  {
+    "title": "Sodium and Water Balance: ADH and Osmoreceptors",
+    "category": "Physiology",
+    "difficulty": "medium",
+    "description": "Supraoptic/paraventricular hypothalamic nuclei, plasma osmolality threshold (280-295 mOsm/kg), V2 receptor cAMP cascade and aquaporin-2 insertion."
+  },
+  {
+    "title": "Thermoregulation & Fever Pathophysiology",
+    "category": "Physiology",
+    "difficulty": "easy",
+    "description": "Preoptic anterior hypothalamus, endogenous pyrogens (IL-1, IL-6, TNF-alpha), PGE2 hypothalamic set-point elevation vs heat stroke hyperthermia."
+  },
+  {
+    "title": "Exercise Physiology: Cardiopulmonary Adaptation",
+    "category": "Physiology",
+    "difficulty": "medium",
+    "description": "VO2 max, anaerobic threshold, cardiac output redistribution, skeletal muscle hyperemia via local metabolites (adenosine, K+, lactate, CO2)."
+  },
+  {
+    "title": "Iron Absorption, Transport, and Hepcidin Regulation",
+    "category": "Physiology",
+    "difficulty": "hard",
+    "description": "DMT-1 in duodenum, ferroportin exporter, transferrin binding, ferritin storage. Hepcidin degradation of ferroportin in chronic inflammation."
+  },
+  {
+    "title": "Bilirubin Metabolism: Conjugation & Enterohepatic Circulation",
+    "category": "Physiology",
+    "difficulty": "easy",
+    "description": "Heme breakdown to unconjugated bilirubin, albumin binding, UDP-glucuronosyltransferase (UGT1A1) conjugation, urobilinogen synthesis."
+  },
+  {
+    "title": "Auditory Transduction & Tonotopic Organization",
+    "category": "Physiology",
+    "difficulty": "hard",
+    "description": "Organ of Corti hair cell stereocilia deflection, K+ influx via endolymph, basilar membrane frequency mapping (base=high pitch, apex=low pitch)."
+  },
+  {
+    "title": "Spermatogenesis & Hypothalamic-Pituitary-Gonadal Axis",
+    "category": "Physiology",
+    "difficulty": "medium",
+    "description": "GnRH pulsatility, LH on Leydig cells (testosterone), FSH on Sertoli cells (inhibin B, androgen-binding protein, blood-testis barrier)."
+  },
+  {
+    "title": "Menstrual Cycle: Follicular, Ovulatory, and Luteal Phases",
+    "category": "Physiology",
+    "difficulty": "medium",
+    "description": "Estrogen positive feedback trigger for LH surge, corpus luteum progesterone production, endometrial proliferation and secretory transformation."
+  },
+  {
+    "title": "Renal Clearance & Inulin vs Creatinine vs PAH",
+    "category": "Physiology",
+    "difficulty": "hard",
+    "description": "Clearance formula (Ux*V/Px). Inulin for true GFR, creatinine slight tubular secretion, PAH for Renal Plasma Flow (RPF), filtration fraction (GFR/RPF)."
+  },
+
+  {
+    "title": "Atherosclerosis Pathogenesis & Plaque Rupture",
+    "category": "Pathology",
+    "difficulty": "medium",
+    "description": "Endothelial injury, LDL oxidation, macrophage scavenger uptake (foam cells), fatty streak, smooth muscle migration, fibrous cap thinning and thrombosis."
+  },
+  {
+    "title": "Cell Death: Necrosis Patterns vs Apoptosis Pathways",
+    "category": "Pathology",
+    "difficulty": "easy",
+    "description": "Coagulative, liquefactive, caseous, fat, fibrinoid, and gangrenous necrosis. Intrinsic (mitochondrial/Bcl-2/Bax) vs Extrinsic (FasL/TNF) apoptosis pathways."
+  },
+  {
+    "title": "Hypersensitivity Reactions: Types I through IV",
+    "category": "Pathology",
+    "difficulty": "easy",
+    "description": "Type I (IgE/mast cell), Type II (cytotoxic antibody/complement), Type III (immune-complex deposition), Type IV (T-cell mediated delayed hypersensitivity)."
+  },
+  {
+    "title": "Nephritic vs Nephrotic Syndrome Glomerulopathies",
+    "category": "Pathology",
+    "difficulty": "hard",
+    "description": "Nephrotic (MCD, FSGS, Membranous) with massive proteinuria vs Nephritic (PSGN, IgA nephropathy, RPGN) with hematuria, RBC casts, hypertension."
+  },
+  {
+    "title": "Acute Myocardial Infarction: Histopathological Timeline",
+    "category": "Pathology",
+    "difficulty": "hard",
+    "description": "0-4h (wavy fibers), 4-24h (coagulation necrosis, contraction bands), 1-3d (neutrophils), 3-7d (macrophages), 7-10d (granulation/rupture risk), >2w (scar)."
+  },
+  {
+    "title": "Systemic Lupus Erythematosus (SLE) Immunopathology",
+    "category": "Pathology",
+    "difficulty": "medium",
+    "description": "Loss of self-tolerance, anti-dsDNA, anti-Smith, complement consumption (low C3/C4), lupus nephritis classes, libman-sacks endocarditis."
+  },
+  {
+    "title": "Shock Pathophysiology: Hypovolemic, Cardiogenic, Distributive, Obstructive",
+    "category": "Pathology",
+    "difficulty": "medium",
+    "description": "Hemodynamic profiling: CVP/PCWP, Cardiac Output, Systemic Vascular Resistance (SVR), mixed venous SvO2 across all 4 shock classes."
+  },
+  {
+    "title": "Hemolytic Anemias: Intrinsic vs Extrinsic & Intravascular vs Extravascular",
+    "category": "Pathology",
+    "difficulty": "medium",
+    "description": "Spherocytosis, G6PD deficiency, Sickle cell vs AIHA, TTP/HUS. Biomarkers: high LDH, high unconjugated bilirubin, low haptoglobin, schistocytes."
+  },
+  {
+    "title": "Chronic Obstructive Pulmonary Disease (COPD): Emphysema vs Bronchitis",
+    "category": "Pathology",
+    "difficulty": "easy",
+    "description": "Centriacinar (smoking) vs Panacinar (alpha-1 antitrypsin deficiency). Reid index in chronic bronchitis, dynamic airway collapse, loss of elastic recoil."
+  },
+  {
+    "title": "Cirrhosis Pathogenesis & Hepatic Stellate Cell Role",
+    "category": "Pathology",
+    "difficulty": "medium",
+    "description": "Ito/Stellate cells transformation to myofibroblasts, TGF-beta mediated collagen I/III deposition, sinusoidal architectural distortion, portal hypertension."
+  },
+  {
+    "title": "Oncogenesis: Proto-oncogenes vs Tumor Suppressors (Two-Hit Hypothesis)",
+    "category": "Pathology",
+    "difficulty": "medium",
+    "description": "Knudson two-hit hypothesis (RB1, TP53, APC, BRCA1/2) vs gain-of-function proto-oncogenes (KRAS, MYC, HER2/neu, BCR-ABL)."
+  },
+  {
+    "title": "Deep Vein Thrombosis & Virchow's Triad",
+    "category": "Pathology",
+    "difficulty": "easy",
+    "description": "Endothelial injury, stasis, hypercoagulability (Factor V Leiden, Prothrombin G20210A, Antiphospholipid syndrome). Risk for pulmonary embolism."
+  },
+  {
+    "title": "Disseminated Intravascular Coagulation (DIC)",
+    "category": "Pathology",
+    "difficulty": "hard",
+    "description": "Systemic thrombin generation, widespread microvascular thrombosis, consumption coagulopathy (prolonged PT/PTT, low platelets, low fibrinogen, elevated D-dimer)."
+  },
+  {
+    "title": "Amyloidosis: AL vs AA vs Transthyretin (ATTR)",
+    "category": "Pathology",
+    "difficulty": "hard",
+    "description": "Beta-pleated sheet fibril deposition, Congo red apple-green birefringence under polarized light. Light-chain vs SAA chronic inflammation vs cardiac ATTR."
+  },
+  {
+    "title": "Thrombotic Thrombocytopenic Purpura (TTP) vs HUS",
+    "category": "Pathology",
+    "difficulty": "hard",
+    "description": "ADAMTS13 deficiency / ultra-large vWF multimers (TTP pentad: FAT RN) vs Shiga-toxin mediated endothelial damage in child bloody diarrhea (HUS triad)."
+  },
+  {
+    "title": "Inflammatory Bowel Disease: Crohn's Disease vs Ulcerative Colitis",
+    "category": "Pathology",
+    "difficulty": "easy",
+    "description": "Transmural skip lesions, cobblestoning, non-caseating granulomas (Crohn's) vs Mucosal continuous pseudopolyps, crypt abscesses, toxic megacolon (UC)."
+  },
+  {
+    "title": "Acute Pancreatitis Pathophysiology & Complications",
+    "category": "Pathology",
+    "difficulty": "medium",
+    "description": "Intra-acinar premature trypsinogen activation, autodigestion, enzymatic fat necrosis, hypocalcemia (saponification), pseudocyst, ARDS."
+  },
+  {
+    "title": "Multiple Myeloma & Monoclonal Gammopathies",
+    "category": "Pathology",
+    "difficulty": "medium",
+    "description": "CRAB criteria (Hypercalcemia, Renal insufficiency, Anemia, Bone lytic lesions), Rouleaux formation, serum protein electrophoresis M-spike, Bence-Jones proteinuria."
+  },
+  {
+    "title": "Acute Respiratory Distress Syndrome (ARDS) Pathogenesis",
+    "category": "Pathology",
+    "difficulty": "medium",
+    "description": "Diffuse alveolar damage, neutrophil activation, capillary leak, alveolar exudate with hyaline membranes, loss of surfactant, PaO2/FiO2 < 300."
+  },
+  {
+    "title": "Parkinson's Disease Neuropathology: Alpha-Synuclein & Lewy Bodies",
+    "category": "Pathology",
+    "difficulty": "medium",
+    "description": "Degeneration of dopaminergic neurons in substantia nigra pars compacta, eosinophilic Lewy bodies (alpha-synuclein), resting tremor, rigidity, bradykinesia."
+  },
+  {
+    "title": "Alzheimer's Disease Neuropathology: Plaques & Neurofibrillary Tangles",
+    "category": "Pathology",
+    "difficulty": "medium",
+    "description": "Extracellular Amyloid-beta 42 plaques (cleaved from APP via beta/gamma secretase) and intracellular hyperphosphorylated tau neurofibrillary tangles, ApoE4 risk."
+  },
+  {
+    "title": "Acute Kidney Injury: Prerenal vs Intrinsic (ATN) vs Postrenal",
+    "category": "Pathology",
+    "difficulty": "easy",
+    "description": "BUN/Cr ratio > 20:1 and FENa < 1% in prerenal vs muddy brown granular casts and FENa > 2% in Acute Tubular Necrosis (ATN)."
+  },
+  {
+    "title": "Gout vs Pseudogout Crystal Arthropathies",
+    "category": "Pathology",
+    "difficulty": "easy",
+    "description": "Monosodium urate (needle-shaped, negatively birefringent, yellow when parallel) vs Calcium pyrophosphate (rhomboid, positively birefringent, blue when parallel)."
+  },
+  {
+    "title": "Thyroiditis Types: Hashimoto's, Subacute De Quervain's, Riedel's",
+    "category": "Pathology",
+    "difficulty": "hard",
+    "description": "Anti-TPO/anti-Tg with Hürthle cells and germinal centers (Hashimoto) vs painful post-viral granulomatous (De Quervain) vs rock-hard IgG4 fibrosis (Riedel)."
+  },
+  {
+    "title": "Vasculitides Classification: Large, Medium, Small Vessel",
+    "category": "Pathology",
+    "difficulty": "hard",
+    "description": "Temporal/Takayasu (large); Polyarteritis nodosa/Kawasaki (medium); GPA (c-ANCA/PR3), MPA/EGPA (p-ANCA/MPO), Henoch-Schönlein purpura (IgA small vessel)."
+  },
+  {
+    "title": "Leukemias: ALL vs AML vs CLL vs CML",
+    "category": "Pathology",
+    "difficulty": "hard",
+    "description": "Auer rods/myeloperoxidase in AML (t(15;17) APL), terminal deoxynucleotidyl transferase (TdT) in ALL, smudge cells in CLL, BCR-ABL t(9;22) in CML."
+  },
+  {
+    "title": "Aortic Aneurysm vs Aortic Dissection",
+    "category": "Pathology",
+    "difficulty": "medium",
+    "description": "Cystic medial necrosis and atherosclerosis (AAA) vs Intimal tear and false lumen propagation (Stanford Type A involving ascending aorta vs Type B descending)."
+  },
+  {
+    "title": "Pulmonary Hypertension: WHO Groups 1 through 5",
+    "category": "Pathology",
+    "difficulty": "hard",
+    "description": "Group 1 (PAH: BMPR2, plexiform lesions), Group 2 (Left heart disease), Group 3 (Lung disease/hypoxia), Group 4 (CTEPH), Group 5 (multifactorial)."
+  },
+  {
+    "title": "Autoimmune Hepatitis vs Primary Biliary Cholangitis vs PSC",
+    "category": "Pathology",
+    "difficulty": "hard",
+    "description": "Anti-SMA / ANA in AIH; Anti-mitochondrial antibodies (AMA) in PBC (interlobular duct destruction); p-ANCA, onion-skin bile duct fibrosis with IBD link (PSC)."
+  },
+  {
+    "title": "Rheumatoid Arthritis vs Osteoarthritis Joint Pathology",
+    "category": "Pathology",
+    "difficulty": "easy",
+    "description": "Pannus formation, synovial hyperplasia, anti-CCP, symmetric MCP/PIP sparing DIP (RA) vs chondrocyte breakdown, osteophytes, subchondral sclerosis (OA)."
+  },
+
+  {
+    "title": "Beta-Blockers: Cardioselective vs Non-Selective vs Mixed Alpha/Beta",
+    "category": "Pharmacology",
+    "difficulty": "easy",
+    "description": "Metoprolol/Atenolol (beta-1 selective), Propranolol/Timolol (non-selective, bronchospasm risk), Carvedilol/Labetalol (alpha-1 and beta blocker for heart failure/emergencies)."
+  },
+  {
+    "title": "Direct Oral Anticoagulants (DOACs) vs Warfarin & Reversal Agents",
+    "category": "Pharmacology",
+    "difficulty": "medium",
+    "description": "Factor Xa inhibitors (Apixaban, Rivaroxaban / Andexanet alfa), Thrombin inhibitor (Dabigatran / Idarucizumab) vs Warfarin (VKORC1 / Vitamin K, PCC)."
+  },
+  {
+    "title": "Anti-Hypertensives: ACE-Is, ARBs, and Neprilysin Inhibitors (ARNI)",
+    "category": "Pharmacology",
+    "difficulty": "easy",
+    "description": "Lisinopril (bradykinin cough, angioedema risk), Losartan (AT1 blocker without cough), Sacubitril/Valsartan mechanism in HFrEF."
+  },
+  {
+    "title": "Diuretics Classes & Electrolyte Derangements",
+    "category": "Pharmacology",
+    "difficulty": "medium",
+    "description": "Loop (Furosemide / hypokalemia, ototoxicity, calcium wasting), Thiazides (HCTZ / hypercalcemia, hyperuricemia), K+-sparing (Spironolactone / hyperkalemia, gynecomastia)."
+  },
+  {
+    "title": "Antibiotics: Cell Wall Synthesis Inhibitors & Resistance Mechanisms",
+    "category": "Pharmacology",
+    "difficulty": "medium",
+    "description": "Penicillins, Cephalosporins, Carbapenems (PBP binding), Vancomycin (D-Ala-D-Ala binding). Beta-lactamases, ESBL, PBP2a mutation in MRSA, VanA operon in VRE."
+  },
+  {
+    "title": "Statins & Lipid-Lowering Therapies",
+    "category": "Pharmacology",
+    "difficulty": "easy",
+    "description": "HMG-CoA reductase inhibitors (Atorvastatin), Ezetimibe (NPC1L1 cholesterol absorption inhibitor), PCSK9 monoclonal antibodies (Evolocumab), Fibrates (PPAR-alpha)."
+  },
+  {
+    "title": "Oral Hypoglycemics: SGLT2i, GLP-1 RA, Metformin, Sulfonylureas",
+    "category": "Pharmacology",
+    "difficulty": "medium",
+    "description": "Metformin (AMPK activation, lactic acidosis), Empagliflozin (SGLT2 inhibition, euglycemic DKA, cardioprotection), Semaglutide (GLP-1 receptor agonist)."
+  },
+  {
+    "title": "Opioid Analgesics: Receptor Mechanisms, Toxicity, and Naloxone",
+    "category": "Pharmacology",
+    "difficulty": "easy",
+    "description": "Mu-opioid receptor Gi coupling (decreased presynaptic Ca2+, increased postsynaptic K+). Overdose triad: CNS depression, respiratory depression, pinpoint pupils (miosis)."
+  },
+  {
+    "title": "Antiarrhythmics: Vaughan-Williams Classification System",
+    "category": "Pharmacology",
+    "difficulty": "hard",
+    "description": "Class I (Na+ blockers: Ia Procainamide, Ib Lidocaine, Ic Flecainide), Class II (Beta-blockers), Class III (K+ blockers: Amiodarone, Sotalol), Class IV (CCBs: Verapamil, Diltiazem)."
+  },
+  {
+    "title": "Cytochrome P450 Enzymes: Major Inducers & Inhibitors",
+    "category": "Pharmacology",
+    "difficulty": "medium",
+    "description": "CYP3A4/2D6/2C9. Inducers (Rifampin, Carbamazepine, St. John's wort, Phenytoin) vs Inhibitors (Grapefruit juice, Ketoconazole, Macrolides, Cimetidine, Ciprofloxacin)."
+  },
+  {
+    "title": "Immunosuppressive Drugs in Solid Organ Transplantation",
+    "category": "Pharmacology",
+    "difficulty": "hard",
+    "description": "Calcineurin inhibitors (Tacrolimus, Cyclosporine), Antimetabolites (Mycophenolate Mofetil / IMPDH inhibitor), mTOR inhibitors (Sirolimus), Glucocorticoids."
+  },
+  {
+    "title": "Biologics & DMARDs in Rheumatoid Arthritis",
+    "category": "Pharmacology",
+    "difficulty": "medium",
+    "description": "Methotrexate (dihydrofolate reductase / adenosine release), TNF-alpha blockers (Infliximab, Adalimumab, Etanercept: TB reactivation risk), Rituximab (anti-CD20)."
+  },
+  {
+    "title": "Proton Pump Inhibitors & H2 Receptor Antagonists",
+    "category": "Pharmacology",
+    "difficulty": "easy",
+    "description": "Omeprazole (irreversible H+/K+ ATPase inhibition, hypomagnesemia, C. diff risk, B12 deficiency) vs Famotidine (competitive H2 receptor antagonism)."
+  },
+  {
+    "title": "Antidepressants: SSRIs, SNRIs, TCAs, and MAO Inhibitors",
+    "category": "Pharmacology",
+    "difficulty": "medium",
+    "description": "Serotonin syndrome risk (SSRIs + MAOIs), TCA cardiotoxicity (Na+ channel blockade, wide QRS, sodium bicarbonate antidote), Tyramine cheese reaction with MAOIs."
+  },
+  {
+    "title": "Local Anesthetics: Esters vs Amides & Epinephrine Co-administration",
+    "category": "Pharmacology",
+    "difficulty": "easy",
+    "description": "Lidocaine, Bupivacaine (amides with two 'i's) vs Procaine, Tetracaine (esters). Voltage-gated Na+ channel blockade, lipid emulsion rescue for LAST."
+  },
+  {
+    "title": "Antipsychotics: Typical vs Atypical & Extrapyramidal Side Effects",
+    "category": "Pharmacology",
+    "difficulty": "hard",
+    "description": "Haloperidol (D2 antagonism, acute dystonia, akathisia, tardive dyskinesia, NMS) vs Clozapine (5-HT2A/D2, agranulocytosis monitoring, metabolic syndrome)."
+  },
+  {
+    "title": "General Anesthetics: Inhaled vs Intravenous Agents",
+    "category": "Pharmacology",
+    "difficulty": "hard",
+    "description": "Sevoflurane/Isoflurane (MAC, blood-gas partition coefficient, malignant hyperthermia with Dantrolene antidote) vs Propofol, Etomidate, Ketamine."
+  },
+  {
+    "title": "Nonsteroidal Anti-inflammatory Drugs (NSAIDs) & COX Selectivity",
+    "category": "Pharmacology",
+    "difficulty": "easy",
+    "description": "Ibuprofen/Naproxen (non-selective COX-1/2, gastric ulceration, renal afferent vasoconstriction) vs Celecoxib (selective COX-2, thrombotic cardiovascular risk)."
+  },
+  {
+    "title": "Aminoglycosides & Glycopeptides: Mechanisms & Toxicities",
+    "category": "Pharmacology",
+    "difficulty": "medium",
+    "description": "Gentamicin (30S ribosomal subunit inhibition, nephrotoxicity, ototoxicity) vs Vancomycin (red man syndrome due to histamine release, nephrotoxicity)."
+  },
+  {
+    "title": "Antifungal Agents: Azoles, Echinocandins, Polyenes",
+    "category": "Pharmacology",
+    "difficulty": "medium",
+    "description": "Fluconazole (ergosterol synthesis 14-alpha-demethylase inhibition), Caspofungin (beta-1,3-glucan cell wall inhibition), Amphotericin B (ergosterol pore formation)."
+  },
+  {
+    "title": "Antiviral Therapy for HIV: HAART Drug Classes",
+    "category": "Pharmacology",
+    "difficulty": "hard",
+    "description": "NRTIs (Tenofovir, Emtricitabine), NNRTIs (Efavirenz), Protease inhibitors (Darunavir + Ritonavir boost), Integrase strand transfer inhibitors (Dolutegravir)."
+  },
+  {
+    "title": "Parkinson's Disease Pharmacotherapy: Levodopa, COMT, MAO-B",
+    "category": "Pharmacology",
+    "difficulty": "medium",
+    "description": "Levodopa/Carbidopa (DOPA decarboxylase inhibition outside BBB), Entacapone (COMT inhibitor), Selegiline (MAO-B inhibitor), Pramipexole (dopamine agonist)."
+  },
+  {
+    "title": "Neuromuscular Blockers: Depolarizing vs Non-Depolarizing",
+    "category": "Pharmacology",
+    "difficulty": "medium",
+    "description": "Succinylcholine (Phase I & II block, hyperkalemia risk, malignant hyperthermia) vs Rocuronium (competitive nAChR antagonist / Sugammadex reversal)."
+  },
+  {
+    "title": "Chemotherapy Alkylating Agents & Platinum Compounds",
+    "category": "Pharmacology",
+    "difficulty": "hard",
+    "description": "Cyclophosphamide (DNA crosslinking, hemorrhagic cystitis prevented by Mesna) vs Cisplatin (nephrotoxicity, ototoxicity, peripheral neuropathy)."
+  },
+  {
+    "title": "Cardiac Inotropes & Vasopressors: Receptor Profiles",
+    "category": "Pharmacology",
+    "difficulty": "hard",
+    "description": "Norepinephrine (alpha-1 > beta-1), Epinephrine (beta > alpha at low dose), Dobutamine (beta-1 inotrope), Milrinone (PDE-3 inhibitor inodilator), Vasopressin (V1)."
+  },
+  {
+    "title": "Antiemetic Agents: 5-HT3, NK1, and Dopamine Antagonists",
+    "category": "Pharmacology",
+    "difficulty": "easy",
+    "description": "Ondansetron (5-HT3 antagonist, QT prolongation), Aprepitant (substance P / NK1 antagonist for chemo-induced nausea), Metoclopramide (D2 prokinetic)."
+  },
+  {
+    "title": "Thyroid Pharmacology: Methimazole, PTU, and Radioiodine",
+    "category": "Pharmacology",
+    "difficulty": "medium",
+    "description": "Propylthiouracil (thyroid peroxidase + peripheral T4-to-T3 conversion block, safe in 1st trimester) vs Methimazole (teratogenic aplasia cutis risk in 1st trimester)."
+  },
+  {
+    "title": "Antiepileptic Drugs: Mechanisms of Action & Side Effects",
+    "category": "Pharmacology",
+    "difficulty": "hard",
+    "description": "Sodium channel blockers (Phenytoin / gingival hyperplasia, Carbamazepine / SIADH, Lamotrigine / SJS), Levetiracetam (SV2A), Valproate (GABA / hepatotoxicity/teratogen)."
+  },
+  {
+    "title": "Nitrates & Phosphodiesterase-5 Inhibitors: Fatal Interaction",
+    "category": "Pharmacology",
+    "difficulty": "easy",
+    "description": "Nitroglycerin (NO donor, guanylyl cyclase, cGMP smooth muscle relaxation) combined with Sildenafil (PDE-5 inhibition) causing profound refractory hypotension."
+  },
+  {
+    "title": "Immune Checkpoint Inhibitors in Oncology: PD-1 & CTLA-4",
+    "category": "Pharmacology",
+    "difficulty": "hard",
+    "description": "Pembrolizumab/Nivolumab (anti-PD-1) and Ipilimumab (anti-CTLA-4). Restores antitumor T-cell cytotoxicity; immune-related adverse events (colitis, hypophysitis)."
+  },
+
+  {
+    "title": "Staphylococcus aureus: Toxins, Virulence, and MRSA",
+    "category": "Microbiology",
+    "difficulty": "easy",
+    "description": "Protein A (Fc binding), TSST-1 superantigen, Exfoliatin (SSSS), Enterotoxin (food poisoning). Coagulase positive vs CoNS; mecA gene mediating MRSA."
+  },
+  {
+    "title": "Streptococcus Species Classification: Hemolysis & Grouping",
+    "category": "Microbiology",
+    "difficulty": "medium",
+    "description": "Beta-hemolytic (GAS S. pyogenes / bacitracin sensitive; GBS S. agalactiae / CAMP positive), Alpha-hemolytic (S. pneumoniae / optochin sensitive vs S. viridans)."
+  },
+  {
+    "title": "Gram-Negative Bacilli: Enterobacteriaceae & Lactose Fermentation",
+    "category": "Microbiology",
+    "difficulty": "medium",
+    "description": "MacConkey agar pink fermenters (E. coli, Klebsiella, Enterobacter) vs Non-fermenters (Salmonella, Shigella, Proteus, Pseudomonas). Triple Sugar Iron (TSI) agar."
+  },
+  {
+    "title": "Pseudomonas aeruginosa: Pathogenesis & Clinical Spectrum",
+    "category": "Microbiology",
+    "difficulty": "easy",
+    "description": "Exotoxin A (EF-2 inactivation), pyocyanin blue-green pigment, mucoid alginate biofilm in Cystic Fibrosis, ecthyma gangrenosum, hot tub folliculitis, malignant otitis."
+  },
+  {
+    "title": "Clostridioides difficile Colitis: Toxins & Treatment",
+    "category": "Microbiology",
+    "difficulty": "easy",
+    "description": "Gram-positive spore-forming anaerobe post-antibiotics. Toxin A (enterotoxin/fluid secretion) and Toxin B (cytotoxin/actin disruption). Oral Vancomycin or Fidaxomicin."
+  },
+  {
+    "title": "Mycobacterium tuberculosis: Ghon Complex & Latency",
+    "category": "Microbiology",
+    "difficulty": "medium",
+    "description": "Acid-fast Ziehl-Neelsen stain, cord factor, sulfatides (phagosome-lysosome fusion block). Primary Ghon focus/complex vs Reactivation cavitary disease (TNF-dependent granulomas)."
+  },
+  {
+    "title": "Viral Hepatitis Serology & Natural History: HBV vs HCV",
+    "category": "Microbiology",
+    "difficulty": "hard",
+    "description": "HBsAg, HBsAb, HBcAb IgM vs IgG, HBeAg. Window period serology. HCV chronic persistence and direct-acting antiviral (DAA) targets."
+  },
+  {
+    "title": "Atypical Pneumonia Pathogens: Mycoplasma, Legionella, Chlamydia",
+    "category": "Microbiology",
+    "difficulty": "medium",
+    "description": "Mycoplasma pneumoniae (cold agglutinins / IgM), Legionella pneumophila (hyponatremia, diarrhea, silver/charcoal BCYE stain), Chlamydia psittaci (bird exposure)."
+  },
+  {
+    "title": "Herpesviridae Family: HSV-1, HSV-2, VZV, EBV, CMV, HHV-8",
+    "category": "Microbiology",
+    "difficulty": "easy",
+    "description": "Enveloped dsDNA viruses with latency. Sensory ganglia latency (HSV/VZV), B cell latency (EBV / mononucleosis), congenital TORCH (CMV), Kaposi sarcoma (HHV-8)."
+  },
+  {
+    "title": "Neisseria meningitidis vs Neisseria gonorrhoeae",
+    "category": "Microbiology",
+    "difficulty": "medium",
+    "description": "Gram-negative diplococci. Maltose fermentation (Meningococcus ferments Maltose + Glucose; Gonococcus Glucose only). LOS endotoxin, pili antigenic variation."
+  },
+  {
+    "title": "Spirochetes: Treponema pallidum (Syphilis) Stages & Serology",
+    "category": "Microbiology",
+    "difficulty": "medium",
+    "description": "Primary painless chancre, secondary condyloma lata/rash on palms and soles, tertiary gummas/tabes dorsalis/Argyll Robertson pupils. Non-treponemal (VDRL/RPR) vs FTA-ABS."
+  },
+  {
+    "title": "Systemic Mycoses: Histoplasma, Blastomyces, Coccidioides",
+    "category": "Microbiology",
+    "difficulty": "hard",
+    "description": "Dimorphic fungi (mold in the cold, yeast in the heat). Histoplasma (bird/bat guano, intracellular macrophages), Blasto (broad-based budding), Cocci (spherules with endospores)."
+  },
+  {
+    "title": "Opportunistic Fungal Infections: Candida, Aspergillus, Cryptococcus, Mucor",
+    "category": "Microbiology",
+    "difficulty": "medium",
+    "description": "Candida (germ tubes at 37C), Aspergillus (45-degree acute branching), Cryptococcus (India ink halo, sabouraud agar, latex agglutination), Mucor (90-degree non-septate in DKA)."
+  },
+  {
+    "title": "Malaria Parasitology: Plasmodium species & Life Cycle",
+    "category": "Microbiology",
+    "difficulty": "hard",
+    "description": "P. falciparum (irregular fever, cerebral malaria, banana-shaped gametocytes), P. vivax/ovale (hypnozoites in liver requiring primaquine), Anopheles mosquito vector."
+  },
+  {
+    "title": "Arboviruses: Dengue, Yellow Fever, Zika, Chikungunya",
+    "category": "Microbiology",
+    "difficulty": "easy",
+    "description": "Aedes aegypti mosquito transmission. Dengue breakbone fever & hemorrhagic shock (antibody-dependent enhancement), Zika microcephaly, Chikungunya polyarthralgia."
+  },
+  {
+    "title": "Helminths: Intestinal Nematodes, Cestodes, and Trematodes",
+    "category": "Microbiology",
+    "difficulty": "hard",
+    "description": "Enterobius (Scotch tape test), Ascaris (biliary obstruction), Strongyloides (autoinfection hyperinfection in steroid use), Taenia solium (cysticercosis), Schistosoma (portal/bladder)."
+  },
+  {
+    "title": "Bacterial Endotoxins (LPS) vs Exotoxins Mechanisms",
+    "category": "Microbiology",
+    "difficulty": "easy",
+    "description": "Lipid A trigger of TLR4 on macrophages (IL-1, IL-6, TNF-alpha, nitric oxide, septic shock) vs A-B toxins (Diphtheria/Exotoxin A ADP-ribosylation, Cholera Gs cAMP)."
+  },
+  {
+    "title": "Bordetella pertussis & Corynebacterium diphtheriae",
+    "category": "Microbiology",
+    "difficulty": "medium",
+    "description": "Pertussis toxin (Gi ADP-ribosylation, lymphocytosis, whooping cough) vs Diphtheria pseudomembrane, EF-2 ADP-ribosylation, Elek test for toxin."
+  },
+  {
+    "title": "Gastrointestinal Protozoa: Giardia vs Entamoeba vs Cryptosporidium",
+    "category": "Microbiology",
+    "difficulty": "medium",
+    "description": "Giardia duodenalis (steatorrhea, trophozoites with smiling face / falling leaf motility) vs Entamoeba histolytica (flask-shaped ulcers, liver abscess, RBC ingestion)."
+  },
+  {
+    "title": "Rabies Virus: Neurotropism, Negri Bodies, and Post-Exposure Prophylaxis",
+    "category": "Microbiology",
+    "difficulty": "easy",
+    "description": "Rhabdovirus bullet-shaped envelope, binding to nicotinic ACh receptors, retrograde axonal transport to CNS, cytoplasmic Negri bodies in Purkinje cells/hippocampus."
+  },
+  {
+    "title": "Borrelia burgdorferi & Lyme Disease Stages",
+    "category": "Microbiology",
+    "difficulty": "medium",
+    "description": "Ixodes tick vector. Stage 1 (Erythema migrans target rash), Stage 2 (Bilateral Bell's palsy, AV block), Stage 3 (Migratory large joint polyarthritis, encephalopathy)."
+  },
+  {
+    "title": "Bacterial Genetics: Transformation, Conjugation, Transduction, Transposition",
+    "category": "Microbiology",
+    "difficulty": "hard",
+    "description": "Competence DNA uptake (S. pneumo transformation), F-plasmid sex pilus high-frequency recombination (conjugation), generalized vs specialized bacteriophage (transduction)."
+  },
+  {
+    "title": "Zoonotic Bacterial Infections: Brucella, Francisella, Bartonella, Yersinia",
+    "category": "Microbiology",
+    "difficulty": "hard",
+    "description": "Unpasteurized dairy / undulant fever (Brucella), Rabbit skinning / ulceroglandular (Francisella), Cat scratch / bacillary angiomatosis (Bartonella), Fleas / bubonic plague (Yersinia pestis)."
+  },
+  {
+    "title": "Influenza Virus: Antigenic Drift vs Antigenic Shift",
+    "category": "Microbiology",
+    "difficulty": "easy",
+    "description": "Segmented RNA genome (8 segments). Hemagglutinin (entry) and Neuraminidase (release). Point mutations (drift = seasonal epidemics) vs Gene reassortment (shift = pandemics)."
+  },
+  {
+    "title": "Human Papillomavirus (HPV) Oncogenesis: E6 and E7 Oncoproteins",
+    "category": "Microbiology",
+    "difficulty": "easy",
+    "description": "High-risk strains HPV 16 and 18. E6 inhibits and degrades p53 tumor suppressor; E7 binds and inactivates Rb pocket protein to release E2F."
+  },
+  {
+    "title": "Bacterial Meningitis Pathogens Across Age Groups",
+    "category": "Microbiology",
+    "difficulty": "easy",
+    "description": "Neonates (GBS, E. coli, Listeria monocytogenes), Children/Adults (S. pneumoniae, N. meningitidis), Elderly/Immunocompromised (Listeria coverage with Ampicillin)."
+  },
+  {
+    "title": "Chlamydia trachomatis: Serovars and Pathology",
+    "category": "Microbiology",
+    "difficulty": "medium",
+    "description": "Elementary body (infectious) vs Reticulate body (replicating). Serovars A-C (Trachoma blindness), D-K (Urethritis/PID/Neonatal conjunctivitis), L1-L3 (Lymphogranuloma venereum)."
+  },
+  {
+    "title": "Infectious Mononucleosis: EBV vs CMV Differentiation",
+    "category": "Microbiology",
+    "difficulty": "medium",
+    "description": "Atypical reactive CD8+ T-lymphocytes (Downey cells). Heterophile antibody positive (Monospot / EBV) vs Heterophile negative mononucleosis (CMV)."
+  },
+  {
+    "title": "Anaerobic Bacteria: Bacteroides fragilis & Actinomyces israelii",
+    "category": "Microbiology",
+    "difficulty": "hard",
+    "description": "B. fragilis intra-abdominal abscesses (metronidazole coverage) vs Actinomyces yellow sulfur granules in draining facial sinuses following dental trauma."
+  },
+  {
+    "title": "Superficial Cutaneous Mycoses: Dermatophytes & Tinea Versicolor",
+    "category": "Microbiology",
+    "difficulty": "easy",
+    "description": "Microsporum, Trichophyton, Epidermophyton (branching septate hyphae on KOH prep) vs Malassezia globosa / furfur (spaghetti and meatballs appearance in tinea versicolor)."
+  },
+
+  {
+    "title": "Acute Chest Pain: Acute Coronary Syndrome Triage & EKG Leads",
+    "category": "Clinical Cases",
+    "difficulty": "medium",
+    "description": "58-year-old male with crushing substernal chest pain radiating to left jaw. STEMI criteria, inferior (II, III, aVF) vs anterior (V1-V4) leads, MONA-B protocol, PCI door-to-balloon time."
+  },
+  {
+    "title": "Acute Dyspnea: Suspected Pulmonary Embolism & Wells Criteria",
+    "category": "Clinical Cases",
+    "difficulty": "medium",
+    "description": "32-year-old female on oral contraceptives post-flight with pleuritic chest pain and hemoptysis. Wells score calculation, D-dimer vs CT Pulmonary Angiography, heparin initiation."
+  },
+  {
+    "title": "Diabetic Ketoacidosis (DKA) Emergency Management",
+    "category": "Clinical Cases",
+    "difficulty": "hard",
+    "description": "19-year-old Type 1 Diabetic with vomiting, Kussmaul breathing, glucose 450, anion gap 22. IV fluid resuscitation, regular insulin infusion, potassium monitoring protocol."
+  },
+  {
+    "title": "Altered Mental Status: Sepsis & Septic Shock Resuscitation",
+    "category": "Clinical Cases",
+    "difficulty": "hard",
+    "description": "72-year-old nursing home resident with fever, tachypnea, BP 78/45, lactate 4.2. Sepsis-3 definitions, 1-hour bundle: blood cultures, broad-spectrum antibiotics, 30 mL/kg crystalloids, norepinephrine."
+  },
+  {
+    "title": "Acute Abdominal Pain: Suspected Acute Appendicitis",
+    "category": "Clinical Cases",
+    "difficulty": "easy",
+    "description": "21-year-old male with periumbilical pain migrating to right lower quadrant, nausea, low-grade fever. McBurney's point tenderness, Rovsing, Psoas, and Obturator signs."
+  },
+  {
+    "title": "Sudden Neurological Deficit: Acute Ischemic Stroke Code",
+    "category": "Clinical Cases",
+    "difficulty": "medium",
+    "description": "67-year-old female with sudden right-sided hemiplegia and expressive aphasia. Last known well time, Non-contrast Head CT to rule out hemorrhage, IV thrombolysis (tPA/TNK) vs Mechanical Thrombectomy."
+  },
+  {
+    "title": "Severe Headache: Subarachnoid Hemorrhage Workup",
+    "category": "Clinical Cases",
+    "difficulty": "medium",
+    "description": "'Worst headache of my life' (thunderclap), meningismus, photophobia. Non-contrast CT sensitivity timeline, lumbar puncture looking for xanthochromia, nimodipine for vasospasm."
+  },
+  {
+    "title": "Trauma: Tension Pneumothorax vs Cardiac Tamponade",
+    "category": "Clinical Cases",
+    "difficulty": "hard",
+    "description": "MVA victim with hypotension, tachycardia, and distended neck veins. Tracheal deviation and absent breath sounds (Tension Pneumo / needle decompression) vs Beck's triad and pulsus paradoxus (Tamponade)."
+  },
+  {
+    "title": "Acute Upper Gastrointestinal Bleeding: Variceal vs Peptic Ulcer",
+    "category": "Clinical Cases",
+    "difficulty": "medium",
+    "description": "48-year-old with hematemesis, melena, tachycardia. Glasgow-Blatchford score, IV PPI vs Octreotide, Ceftriaxone in cirrhotic bleed, emergent endoscopy and band ligation."
+  },
+  {
+    "title": "Severe Acute Asthma Exacerbation in Emergency Department",
+    "category": "Clinical Cases",
+    "difficulty": "easy",
+    "description": "16-year-old with wheezing, tachypnea, accessory muscle use, silent chest warning sign. Inhaled albuterol/ipratropium, systemic corticosteroids, IV magnesium sulfate, criteria for intubation."
+  },
+  {
+    "title": "Anaphylactic Shock: Recognition and Epinephrine Protocol",
+    "category": "Clinical Cases",
+    "difficulty": "easy",
+    "description": "24-year-old with hives, lip swelling, wheezing, and hypotension within 10 min of peanut ingestion. First-line IM Epinephrine (1:1000) anterolateral thigh dose, airway, IV fluids, adjuncts."
+  },
+  {
+    "title": "Hypertensive Emergency with End-Organ Damage",
+    "category": "Clinical Cases",
+    "difficulty": "hard",
+    "description": "54-year-old with BP 220/130, papilledema, acute pulmonary edema, or aortic dissection. Target blood pressure reduction limits (max 25% in 1st hour), IV Nicardipine/Labetalol vs Nitroprusside."
+  },
+  {
+    "title": "Severe Hyperkalemia with EKG Changes",
+    "category": "Clinical Cases",
+    "difficulty": "medium",
+    "description": "End-stage renal disease patient with K+ 7.4 mEq/L, peaked T waves, wide QRS. Membrane stabilization (IV Calcium gluconate), intracellular shift (Insulin+D50, Albuterol), elimination (Kayexalate, Hemodialysis)."
+  },
+  {
+    "title": "Acute Bacterial Meningitis: Diagnostic Lumbar Puncture & Empiric Therapy",
+    "category": "Clinical Cases",
+    "difficulty": "medium",
+    "description": "22-year-old college student with fever, severe neck stiffness (Kernig/Brudzinski), purpuric rash. CSF profile (high opening pressure, neutrophils, low glucose, high protein), Vancomycin + Ceftriaxone + Dexamethasone."
+  },
+  {
+    "title": "Syncope Evaluation: Vasovagal vs Orthostatic vs Cardiogenic",
+    "category": "Clinical Cases",
+    "difficulty": "easy",
+    "description": "Sudden loss of consciousness during exertion vs after prolonged standing with prodromal warmth/nausea. EKG screening for long QT, Brugada, WPW, hypertrophic cardiomyopathy (HOCM)."
+  },
+  {
+    "title": "Acute Pancreatitis: Diagnosis & Ranson/BISAP Criteria",
+    "category": "Clinical Cases",
+    "difficulty": "easy",
+    "description": "Epigastric pain radiating to back, relieved by leaning forward. Lipase > 3x upper limit of normal, ultrasound for gallstones, aggressive fluid resuscitation (Lactated Ringer's), nutritional strategy."
+  },
+  {
+    "title": "First Unprovoked Seizure: Status Epilepticus Algorithm",
+    "category": "Clinical Cases",
+    "difficulty": "hard",
+    "description": "Continuous generalized tonic-clonic activity > 5 min. Step 1 (IV Lorazepam / IM Midazolam), Step 2 (IV Levetiracetam / Fosphenytoin), Step 3 (Propofol / Midazolam infusion & intubation)."
+  },
+  {
+    "title": "Acute Monarthritis: Septic Arthritis vs Gout Flare",
+    "category": "Clinical Cases",
+    "difficulty": "medium",
+    "description": "Hot, swollen, acutely painful right knee with inability to bear weight. Urgent arthrocentesis: synovial fluid WBC > 50,000, Gram stain/culture vs intracellular birefringent crystals."
+  },
+  {
+    "title": "Thyroid Storm vs Myxedema Coma Endocrine Crises",
+    "category": "Clinical Cases",
+    "difficulty": "hard",
+    "description": "Thyrotoxic crisis (fever, delirium, tachyarrhythmia: Propranolol, PTU, Lugol iodine, Hydrocortisone) vs Hypothyroid coma (hypothermia, hypoventilation, bradycardia: IV Levothyroxine + Hydrocortisone)."
+  },
+  {
+    "title": "Preeclampsia with Severe Features & Eclampsia Protocol",
+    "category": "Clinical Cases",
+    "difficulty": "hard",
+    "description": "34-week pregnant female with BP 170/110, headache, scotomas, hyperreflexia. IV Magnesium sulfate for seizure prophylaxis (therapeutic levels, calcium gluconate antidote), Hydralazine/Labetalol, delivery planning."
+  },
+  {
+    "title": "Acetaminophen Overdose: Rumack-Matthew Nomogram & NAC Protocol",
+    "category": "Clinical Cases",
+    "difficulty": "medium",
+    "description": "Ingestion of 30 Tylenol tablets 4 hours ago. 4-hour serum APAP level plotted on Rumack-Matthew nomogram, NAPQI glutathione depletion, N-acetylcysteine (NAC) replenishment therapy."
+  },
+  {
+    "title": "Carbon Monoxide Poisoning vs Cyanide Toxicity",
+    "category": "Clinical Cases",
+    "difficulty": "medium",
+    "description": "House fire smoke inhalation victims. Cherry red skin / pulse oximeter artifact / carboxyhemoglobin level (100% O2) vs severe lactic acidosis / bitter almond odor (Hydroxocobalamin / Sodium thiosulfate)."
+  },
+  {
+    "title": "Massive Blood Transfusion Protocol & Complications",
+    "category": "Clinical Cases",
+    "difficulty": "hard",
+    "description": "Exsanguinating trauma patient. 1:1:1 ratio (PRBCs, FFP, Platelets). Risks of hypocalcemia (citrate toxicity), hypothermia, hyperkalemia, and TRALI vs TACO."
+  },
+  {
+    "title": "Deep Neck Space Infection: Ludwig's Angina Workup",
+    "category": "Clinical Cases",
+    "difficulty": "easy",
+    "description": "Submandibular and sublingual space cellulitis post lower molar infection, wooden elevation of tongue, stridor. Immediate airway protection (fiberoptic intubation/tracheostomy), IV antibiotics."
+  },
+  {
+    "title": "Acute Limb Ischemia: The 6 P's and Revascularization",
+    "category": "Clinical Cases",
+    "difficulty": "medium",
+    "description": "Pain, Pallor, Pulselessness, Paresthesias, Poikilothermia, Paralysis. Embolic vs in-situ thrombosis, emergent systemic heparinization, surgical embolectomy (Fogarty catheter) vs catheter-directed thrombolysis."
+  },
+  {
+    "title": "Pediatric Stridor: Croup vs Epiglottitis vs Foreign Body",
+    "category": "Clinical Cases",
+    "difficulty": "easy",
+    "description": "Barking seal-like cough & steeple sign (Croup / dexamethasone, racemic epi) vs Toxic high fever, tripod position, thumbprint sign (Epiglottitis / do not agitate, emergent intubation)."
+  },
+  {
+    "title": "Spinal Cord Compression: Emergent Oncologic Triage",
+    "category": "Clinical Cases",
+    "difficulty": "hard",
+    "description": "Cancer patient with progressive thoracic back pain worse when supine, lower extremity weakness, urinary retention. Immediate high-dose IV Dexamethasone, emergent total spine MRI, radiation oncology/neurosurgery consult."
+  },
+  {
+    "title": "Heat Stroke vs Heat Exhaustion Management",
+    "category": "Clinical Cases",
+    "difficulty": "easy",
+    "description": "Core body temperature > 40°C with altered mental status / CNS dysfunction vs preserved mentation. Rapid evaporative/conductive ice-water immersion cooling, avoidance of antipyretics."
+  },
+  {
+    "title": "Acute Angle-Closure Glaucoma Presentation & Medical Decompression",
+    "category": "Clinical Cases",
+    "difficulty": "medium",
+    "description": "Severe unilateral eye pain, headache, halos around lights, fixed mid-dilated pupil, rock-hard globe. Medical cocktail: Topical Timolol, Apraclonidine, Pilocarpine, IV Acetazolamide/Mannitol, laser iridotomy."
+  },
+  {
+    "title": "Ectopic Pregnancy with Rupture: Emergency Evaluation",
+    "category": "Clinical Cases",
+    "difficulty": "easy",
+    "description": "Reproductive-age female with amenorrhea, sudden unilateral pelvic pain, vaginal spotting, peritoneal signs, and hypotension. Transvaginal ultrasound (empty uterus, adnexal mass, free fluid), beta-hCG, emergent laparoscopy."
+  },
+
+  {
+    "title": "Refeeding Syndrome: Pathophysiology & Prevention Protocols",
+    "category": "Clinical Nutrition",
+    "difficulty": "hard",
+    "description": "Insulin surge post-carbohydrate reintroduction causing rapid cellular shift of phosphate, magnesium, and potassium. Hypophosphatemia cardiac arrest risk, thiamine pre-loading protocol."
+  },
+  {
+    "title": "Enteral vs Total Parenteral Nutrition (TPN)",
+    "category": "Clinical Nutrition",
+    "difficulty": "medium",
+    "description": "Gut mucosal atrophy prevention in enteral feeding vs central line sepsis, hypertriglyceridemia, and cholestatic liver disease in TPN."
+  },
+  {
+    "title": "Medical Nutrition Therapy in Chronic Kidney Disease (CKD)",
+    "category": "Clinical Nutrition",
+    "difficulty": "hard",
+    "description": "Protein intake targets in non-dialysis vs hemodialysis, phosphorus binders, potassium restriction, sodium limits, and vitamin D/calcium balance."
+  },
+  {
+    "title": "Ketogenic Diet in Refractory Pediatric Epilepsy",
+    "category": "Clinical Nutrition",
+    "difficulty": "medium",
+    "description": "4:1 lipid-to-(protein+carb) ratio, beta-hydroxybutyrate and acetoacetate synthesis, GABA synthesis upregulation, monitoring for nephrolithiasis and dyslipidemia."
+  },
+  {
+    "title": "DASH & Mediterranean Diets: Cardiovascular & Endothelial Impact",
+    "category": "Clinical Nutrition",
+    "difficulty": "easy",
+    "description": "High potassium/magnesium/calcium, rich monounsaturated fatty acids (extra virgin olive oil), polyphenol antioxidant pathways, blood pressure and lipid lowering."
+  },
+  {
+    "title": "Celiac Disease vs Non-Celiac Gluten Sensitivity",
+    "category": "Clinical Nutrition",
+    "difficulty": "easy",
+    "description": "Anti-tTG IgA, anti-EMA, duodenal villous blunting (Marsh classification). Strict lifelong gluten-free diet (wheat, rye, barley) and hidden gluten cross-contamination."
+  },
+  {
+    "title": "Low-FODMAP Diet in Irritable Bowel Syndrome (IBS)",
+    "category": "Clinical Nutrition",
+    "difficulty": "medium",
+    "description": "Fermentable Oligo-, Di-, Mono-saccharides and Polyols. Osmotic luminal water retention, colonic gas production, 3-phase protocol: elimination, re-challenge, personalization."
+  },
+  {
+    "title": "Vitamin D Metabolism, Bioavailability & Bone Health",
+    "category": "Clinical Nutrition",
+    "difficulty": "easy",
+    "description": "Ergocalciferol (D2) vs Cholecalciferol (D3), hepatic 25-hydroxylation, renal 1-alpha-hydroxylation (PTH-driven). Osteomalacia vs Rickets, target 25(OH)D levels."
+  },
+  {
+    "title": "Vitamin B12 vs Folate Deficiency: Differential & Metabolic Markers",
+    "category": "Clinical Nutrition",
+    "difficulty": "medium",
+    "description": "Macrocytic megaloblastic anemia. Subacute combined degeneration (SCD) of spinal cord in B12 (dorsal columns/corticospinal). Elevated Methylmalonic acid in B12 only; Homocysteine elevated in both."
+  },
+  {
+    "title": "Wernicke-Korsakoff Syndrome & Thiamine (B1) Kinetics",
+    "category": "Clinical Nutrition",
+    "difficulty": "medium",
+    "description": "Thiamine pyrophosphate (TPP) cofactor for pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase, transketolase. Triad (confusion, ataxia, ophthalmoplegia), rule: IV thiamine BEFORE dextrose."
+  },
+  {
+    "title": "Dietary Fiber, Short-Chain Fatty Acids (SCFAs) & Microbiome",
+    "category": "Clinical Nutrition",
+    "difficulty": "easy",
+    "description": "Soluble (viscous/fermentable) vs Insoluble fiber. Colonic fermentation producing acetate, propionate, and butyrate (colonocyte fuel, Treg anti-inflammatory induction)."
+  },
+  {
+    "title": "Metabolic Dysfunction-Associated Steatohepatitis (MASLD / NAFLD)",
+    "category": "Clinical Nutrition",
+    "difficulty": "medium",
+    "description": "Dietary high-fructose corn syrup, de novo lipogenesis, hepatic insulin resistance. Target 7-10% weight loss, Mediterranean dietary pattern, vitamin E role."
+  },
+  {
+    "title": "Energy Expenditure Calculations & Nitrogen Balance",
+    "category": "Clinical Nutrition",
+    "difficulty": "hard",
+    "description": "Basal Metabolic Rate (BMR) formulas (Mifflin-St Jeor), Activity and Stress injury factors. Nitrogen balance equation (Protein intake/6.25 - [Urinary urea nitrogen + 4])."
+  },
+  {
+    "title": "Post-Bariatric Surgery Micronutrient Malabsorption",
+    "category": "Clinical Nutrition",
+    "difficulty": "hard",
+    "description": "Roux-en-Y gastric bypass vs Sleeve gastrectomy. Deficiencies in Iron, Calcium, B12, Thiamine, Copper, Zinc, and Fat-soluble vitamins. Lifelong supplementation protocols."
+  },
+  {
+    "title": "Iron Absorption: Heme vs Non-Heme & Enhancers/Inhibitors",
+    "category": "Clinical Nutrition",
+    "difficulty": "easy",
+    "description": "Duodenal cytochrome b (DCYTB), DMT-1 transporter, ascorbic acid (vitamin C) enhancement vs phytates, tannins, and calcium inhibition. Ferroportin and hepcidin axis."
+  },
+  {
+    "title": "Phenylketonuria (PKU): Metabolic Defect & Dietary Prescription",
+    "category": "Clinical Nutrition",
+    "difficulty": "hard",
+    "description": "Phenylalanine hydroxylase (PAH) or BH4 cofactor deficiency. Toxic accumulation of phenylalanine causing severe intellectual disability. Strict Phe-restricted medical formula + Tyrosine supplementation."
+  },
+  {
+    "title": "Glycemic Index vs Glycemic Load in Diabetes Management",
+    "category": "Clinical Nutrition",
+    "difficulty": "easy",
+    "description": "Rate of blood glucose surge (GI) vs Total available carbohydrate per serving (GL = GI x carb grams / 100). Impact on postprandial glucose excursions and insulin demand."
+  },
+  {
+    "title": "Fat-Soluble Vitamins (A, D, E, K) in Malabsorption Syndromes",
+    "category": "Clinical Nutrition",
+    "difficulty": "medium",
+    "description": "Pancreatic insufficiency (Cystic Fibrosis, Chronic Pancreatitis) and cholestasis (PBC/PSC). Night blindness (A), Coagulopathy/prolonged PT (K), Hemolytic anemia/ataxia (E), Osteomalacia (D)."
+  },
+  {
+    "title": "Zinc Deficiency & Acrodermatitis Enteropathica",
+    "category": "Clinical Nutrition",
+    "difficulty": "medium",
+    "description": "ZIP4 transporter mutation or nutritional deficit. Periorificial and acral dermatitis, alopecia, diarrhea, impaired wound healing, hypogonadism, dysgeusia (loss of taste)."
+  },
+  {
+    "title": "Sarcopenia & Protein Nutrition in Geriatric Medicine",
+    "category": "Clinical Nutrition",
+    "difficulty": "medium",
+    "description": "Age-related anabolic resistance, loss of muscle mass and physical function. Target protein 1.2-1.5 g/kg/day, leucine threshold for muscle protein synthesis, resistance training synergy."
+  },
+  {
+    "title": "Gout: Dietary Purines, Fructose, and Uric Acid Kinetics",
+    "category": "Clinical Nutrition",
+    "difficulty": "easy",
+    "description": "High-purine foods (red meat, shellfish), beer (guanosine/alcohol lactic acid competition in kidney), and fructose (rapid ATP depletion to AMP/uric acid)."
+  },
+  {
+    "title": "Pediatric Failure to Thrive (FTT): Nutritional Rehabilitation",
+    "category": "Clinical Nutrition",
+    "difficulty": "medium",
+    "description": "Weight drop across 2 major percentiles or < 5th percentile. Caloric density concentration (24-30 kcal/oz), high-calorie fortification, organic vs non-organic environmental etiology."
+  },
+  {
+    "title": "Maple Syrup Urine Disease & Galactosemia Nutrition",
+    "category": "Clinical Nutrition",
+    "difficulty": "hard",
+    "description": "Branched-chain alpha-ketoacid dehydrogenase deficiency (Leucine, Isoleucine, Valine restriction) vs Galactose-1-phosphate uridylyltransferase (GALT) deficiency (strict lactose/galactose elimination)."
+  },
+  {
+    "title": "Essential Fatty Acids: Omega-3 (EPA/DHA) vs Omega-6 Pathways",
+    "category": "Clinical Nutrition",
+    "difficulty": "easy",
+    "description": "Alpha-linolenic acid (ALA) to EPA/DHA (anti-inflammatory resolvins, PGE3, LTB5) vs Linoleic acid to Arachidonic acid (pro-inflammatory PGE2, LTB4). Target Omega-6:Omega-3 ratio."
+  },
+
+  {
+    "title": "Epidemiological Study Designs: Hierarchy & Methodologies",
+    "category": "Public Health",
+    "difficulty": "medium",
+    "description": "Cohort (prospective/retrospective, relative risk), Case-Control (rare diseases, odds ratio), Cross-Sectional (prevalence snapshot), Ecological (population-level fallacy)."
+  },
+  {
+    "title": "Measures of Association: Odds Ratio vs Relative Risk vs Hazard Ratio",
+    "category": "Public Health",
+    "difficulty": "medium",
+    "description": "OR (ad/bc in case-control) vs RR (incidence in exposed / unexposed in cohort) vs HR (time-to-event survival rate comparison). Rare disease assumption (OR approximates RR)."
+  },
+  {
+    "title": "Diagnostic Test Validity: Sensitivity, Specificity, PPV & NPV",
+    "category": "Public Health",
+    "difficulty": "easy",
+    "description": "Sensitivity (rule OUT, SnNout), Specificity (rule IN, SpPin). Impact of disease prevalence on Positive Predictive Value (increases with prevalence) and Negative Predictive Value."
+  },
+  {
+    "title": "Principles of Population Screening: Wilson-Jungner Criteria",
+    "category": "Public Health",
+    "difficulty": "easy",
+    "description": "Important health problem, recognizable latent/early stage, acceptable safe test, effective treatment available, cost-effective. Lead-time bias vs Length bias."
+  },
+  {
+    "title": "Herd Immunity Threshold & Basic Reproduction Number (R0)",
+    "category": "Public Health",
+    "difficulty": "medium",
+    "description": "Formula: HIT = 1 - (1/R0). Measles (R0 ~ 12-18, HIT ~ 95%), COVID-19 variations. Effective reproductive number (Rt) modulation via non-pharmaceutical interventions and vaccination."
+  },
+  {
+    "title": "Vaccine Platforms: Live-Attenuated, Inactivated, Subunit, mRNA",
+    "category": "Public Health",
+    "difficulty": "easy",
+    "description": "Live (MMR, Varicella, Rotavirus: strong humoral+cell-mediated immunity, contraindicated in pregnancy/severe immunosuppression) vs mRNA (lipid nanoparticles) vs Recombinant protein subunit."
+  },
+  {
+    "title": "Outbreak Investigation: CDC 10-Step Field Epidemiology",
+    "category": "Public Health",
+    "difficulty": "medium",
+    "description": "Verify diagnosis, confirm outbreak existence, establish case definition (confirmed, probable, suspect), construct epidemic curve (point-source vs continuous vs propagated), implement immediate controls."
+  },
+  {
+    "title": "Social Determinants of Health (SDOH) & Health Equity",
+    "category": "Public Health",
+    "difficulty": "easy",
+    "description": "Five domains (Economic stability, Education access, Healthcare quality, Neighborhood environment, Social community). Allostatic load and systemic chronic disease disparities."
+  },
+  {
+    "title": "Cardiovascular Primary Prevention & ASCVD Risk Scoring",
+    "category": "Public Health",
+    "difficulty": "easy",
+    "description": "AHA/ACC 10-year ASCVD pooled cohort equation. Thresholds for moderate vs high-intensity statin initiation, blood pressure targets, lifestyle interventions."
+  },
+  {
+    "title": "Colorectal Cancer Screening Modalities & Guidelines",
+    "category": "Public Health",
+    "difficulty": "easy",
+    "description": "USPSTF start age 45. Colonoscopy every 10 years (visualizing & polypectomy) vs annual Fecal Immunochemical Test (FIT) vs stool DNA-FIT (Cologuard) every 3 years."
+  },
+  {
+    "title": "Cervical Cancer Screening: Pap Cytology & High-Risk HPV Testing",
+    "category": "Public Health",
+    "difficulty": "easy",
+    "description": "Ages 21-29 (Pap cytology every 3 years), Ages 30-65 (hrHPV co-testing every 5 years or Pap every 3 years). Management of ASC-US, LSIL, HSIL per ASCCP guidelines."
+  },
+  {
+    "title": "Tobacco Control, Smoking Cessation Protocols & Pharmacotherapy",
+    "category": "Public Health",
+    "difficulty": "easy",
+    "description": "The 5 A's counseling model (Ask, Advise, Assess, Assist, Arrange). Varenicline (alpha-4-beta-2 partial agonist), Bupropion (NDRI), Nicotine replacement therapy (NRT) combination."
+  },
+  {
+    "title": "Global Burden of Disease: DALYs, YLLs, and YLDs",
+    "category": "Public Health",
+    "difficulty": "medium",
+    "description": "Disability-Adjusted Life Years (DALY = YLL + YLD). Years of Life Lost (mortality) and Years Lived with Disability (morbidity weighted by disability severity). Epidemiological transition."
+  },
+  {
+    "title": "Occupational Pneumoconioses: Asbestosis, Silicosis, Coal Dust",
+    "category": "Public Health",
+    "difficulty": "medium",
+    "description": "Silicosis (sandblasting/quarries, upper lobes, eggshell calcification, TB susceptibility) vs Asbestosis (shipyards/insulation, lower lobes, pleural plaques, mesothelioma/bronchogenic cancer)."
+  },
+  {
+    "title": "Antimicrobial Stewardship Programs (ASP) in Healthcare",
+    "category": "Public Health",
+    "difficulty": "medium",
+    "description": "Hospital antibiograms, pre-authorization and prospective audit with feedback, de-escalation of broad-spectrum empiric therapy, preventing C. diff and multi-drug resistant organisms."
+  },
+  {
+    "title": "Maternal Mortality Ratio (MMR) & Obstetric Safety Bundles",
+    "category": "Public Health",
+    "difficulty": "medium",
+    "description": "Maternal deaths per 100,000 live births. Leading causes (postpartum hemorrhage, preeclampsia, sepsis, embolism). AIM hemorrhage safety bundle (quantified blood loss, oxytocin/uterotonics)."
+  },
+  {
+    "title": "Healthcare-Associated Infections (HAIs) Prevention Bundles",
+    "category": "Public Health",
+    "difficulty": "easy",
+    "description": "Central Line-Associated Bloodstream Infection (CLABSI chlorhexidine/maximal barrier precautions), Catheter-Associated UTI (CAUTI daily need review), Ventilator-Associated Pneumonia (VAP 30-45 degree head elevation)."
+  },
+  {
+    "title": "Bioterrorism Category A High-Priority Pathogens",
+    "category": "Public Health",
+    "difficulty": "hard",
+    "description": "Bacillus anthracis (widened mediastinum, ciprofloxacin), Smallpox (synchronous centrifugal pustules), Yersinia pestis (pneumonic plague), Clostridium botulinum toxin, Francisella tularensis, Ebola virus."
+  },
+  {
+    "title": "One Health Paradigm & Zoonotic Spillover Surveillance",
+    "category": "Public Health",
+    "difficulty": "medium",
+    "description": "Interconnected human, animal, and environmental ecosystem health. Wildlife reservoir surveillance, live-animal market biosecurity, deforestation spillover interface."
+  },
+  {
+    "title": "Water, Sanitation, and Hygiene (WASH) in Global Health",
+    "category": "Public Health",
+    "difficulty": "easy",
+    "description": "Fecal-oral transmission pathways (F-diagram: fluids, fields, flies, fingers, food). Point-of-use chlorination, oral rehydration salts (ORS), and cholera epidemic mitigation."
+  },
+
+  {
+    "title": "Formulating Clinical Research Questions: The PICO Framework",
+    "category": "Research & EBM",
+    "difficulty": "easy",
+    "description": "Population/Patient, Intervention, Comparison/Control, Outcome. Turning ambiguous clinical dilemmas into answerable, precise, searchable biomedical questions."
+  },
+  {
+    "title": "The Evidence Hierarchy: From In-Vitro to Systematic Reviews",
+    "category": "Research & EBM",
+    "difficulty": "easy",
+    "description": "Levels of Evidence (Oxford CEBM): In-vitro/animal -> Expert opinion -> Case series -> Case-control -> Cohort -> RCTs -> Systematic Reviews & Meta-Analyses."
+  },
+  {
+    "title": "Systematic Reviews & Meta-Analyses: PRISMA Guidelines",
+    "category": "Research & EBM",
+    "difficulty": "medium",
+    "description": "Protocol registration (PROSPERO), comprehensive multi-database search strategy, independent dual screening, data extraction, risk of bias assessment, and PRISMA 2020 flow diagram."
+  },
+  {
+    "title": "Randomized Controlled Trial (RCT) Design & Blinding (CONSORT)",
+    "category": "Research & EBM",
+    "difficulty": "medium",
+    "description": "Block vs Stratified randomization, Allocation concealment (sequentially numbered opaque envelopes) vs Single/Double/Triple Blinding, Placebo effects, CONSORT statement."
+  },
+  {
+    "title": "Biases in Clinical Research: Selection, Information, Confounding",
+    "category": "Research & EBM",
+    "difficulty": "medium",
+    "description": "Berkson's bias (hospital controls), Recall bias, Hawthrone effect, Observer bias, Loss-to-follow-up (attrition bias). Strategies to prevent and control bias."
+  },
+  {
+    "title": "Publication Bias & Funnel Plot Interpretation",
+    "category": "Research & EBM",
+    "difficulty": "hard",
+    "description": "Tendency of journals to publish positive/statistically significant results. Inverted funnel plot of effect size vs standard error; detecting asymmetry with Egger's regression test."
+  },
+  {
+    "title": "Interpreting Forest Plots in Meta-Analyses",
+    "category": "Research & EBM",
+    "difficulty": "medium",
+    "description": "Individual study squares (size proportional to sample weight), horizontal whiskers (95% CI), vertical line of no effect, summary pooled diamond, I-squared heterogeneity index (>50% substantial)."
+  },
+  {
+    "title": "Hypothesis Testing: Type I (Alpha) vs Type II (Beta) Errors",
+    "category": "Research & EBM",
+    "difficulty": "easy",
+    "description": "Type I error (False Positive: rejecting true null hypothesis, set at alpha=0.05) vs Type II error (False Negative: failing to reject false null, set at beta=0.20). Statistical Power = 1 - Beta (80-90%)."
+  },
+  {
+    "title": "P-Values vs 95% Confidence Intervals & Clinical Significance",
+    "category": "Research & EBM",
+    "difficulty": "easy",
+    "description": "P-value conveys statistical significance against null, whereas 95% CI provides effect size precision, direction, and clinical relevance. Statistically significant does not mean clinically meaningful."
+  },
+  {
+    "title": "Intention-to-Treat (ITT) vs Per-Protocol (PP) Analysis",
+    "category": "Research & EBM",
+    "difficulty": "medium",
+    "description": "ITT preserves randomization by analyzing subjects in their assigned group regardless of non-compliance/dropout (pragmatic, minimizes bias) vs PP analyzing only protocol-adherent subjects (efficacy ceiling)."
+  },
+  {
+    "title": "ROC Curves, Area Under the Curve (AUC) & Likelihood Ratios",
+    "category": "Research & EBM",
+    "difficulty": "hard",
+    "description": "Receiver Operating Characteristic (Sensitivity vs 1 - Specificity). AUC 0.5 (chance) to 1.0 (perfect). Positive Likelihood Ratio (Sens / [1-Spec]), Negative LR ([1-Sens] / Spec), Fagan's nomogram."
+  },
+  {
+    "title": "Number Needed to Treat (NNT) & Absolute Risk Reduction (ARR)",
+    "category": "Research & EBM",
+    "difficulty": "easy",
+    "description": "Absolute Risk Reduction (ARR = Control Event Rate - Experimental Event Rate). NNT = 1 / ARR. Number Needed to Harm (NNH = 1 / Absolute Risk Increase). Why Relative Risk can mislead."
+  },
+  {
+    "title": "Confounding Control: Restriction, Matching & Multivariable Regression",
+    "category": "Research & EBM",
+    "difficulty": "hard",
+    "description": "A confounder is associated with exposure and is an independent risk factor for outcome without being an intermediate. Controlled in design (randomization, matching) or analysis (stratification, multivariable models)."
+  },
+  {
+    "title": "Survival Analysis: Kaplan-Meier Curves & Cox Proportional Hazards",
+    "category": "Research & EBM",
+    "difficulty": "hard",
+    "description": "Time-to-event data with censoring. Step-down Kaplan-Meier survival curves, Log-Rank test for group comparisons, Cox regression Hazard Ratios (HR) assuming constant proportional hazard over time."
+  },
+  {
+    "title": "Critical Appraisal of Clinical Papers: CASP & Cochrane RoB 2",
+    "category": "Research & EBM",
+    "difficulty": "medium",
+    "description": "Systematic evaluation of study validity, methodology, statistical rigor, magnitude of results, and applicability to your specific patient cohort."
+  },
+  {
+    "title": "The GRADE Framework for Guidelines & Recommendations",
+    "category": "Research & EBM",
+    "difficulty": "hard",
+    "description": "Grading of Recommendations Assessment, Development and Evaluation. Quality of evidence (High, Moderate, Low, Very Low) based on risk of bias, inconsistency, indirectness, imprecision, publication bias."
+  },
+  {
+    "title": "Research Bioethics: Declaration of Helsinki & IRB Governance",
+    "category": "Research & EBM",
+    "difficulty": "easy",
+    "description": "Belmont Report principles: Respect for Autonomy (informed consent), Beneficence (maximize benefits, minimize harm), and Justice (equitable selection). Institutional Review Board (IRB) review."
+  },
+  {
+    "title": "Literature Searching Mastery: PubMed MeSH & Boolean Operators",
+    "category": "Research & EBM",
+    "difficulty": "easy",
+    "description": "Medical Subject Headings (MeSH tree hierarchy, explosion, subheadings), Boolean logic (AND narrows, OR broadens, NOT excludes), truncation asterisks, and search filter limits."
+  },
+  {
+    "title": "Peer Review Ethics, Scientific Integrity & Retraction Triggers",
+    "category": "Research & EBM",
+    "difficulty": "easy",
+    "description": "Single vs double-blind peer review. Scientific misconduct (Fabrication, Falsification, Plagiarism - FFP), predatory journals, Committee on Publication Ethics (COPE) retraction guidelines."
+  },
+  {
+    "title": "Sample Size Calculation & Statistical Power Determinants",
+    "category": "Research & EBM",
+    "difficulty": "hard",
+    "description": "Four interdependent parameters: Alpha significance level (0.05), Statistical Power (1 - Beta = 0.80), Minimum clinically meaningful Effect Size (Cohen's d / delta), and Population variance/SD."
+  }
+]
+
