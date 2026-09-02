@@ -7,8 +7,7 @@
   "scripts": {
     "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
     "dev:server": "tsx watch server/index.ts",
-    "dev:client": "npm --prefix client run dev",
-    "build": "npm run build:client && prisma generate && prisma db push && tsx prisma/seed.ts",
+    "build": "cd client && npm install && npm run build",
     "build:client": "npm --prefix client run build",
     "start": "tsx server/index.ts",
     "prisma:generate": "prisma generate",
